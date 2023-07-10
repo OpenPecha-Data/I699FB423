@@ -1,0 +1,94 @@
+id: fb288c46f8144887b4ff49f21d6734cf
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e4e70aa645b34b1ab193652b5ed131f8:
+    span:
+      start: 0
+      end: 742
+    imgnum: 1
+    reference: I3MS3260001.tif
+  19892302e41646b8b0a3f963451786aa:
+    span:
+      start: 743
+      end: 810
+    imgnum: 3
+    reference: I3MS3260003.jpg
+  76378cf1b47148b79ab10a07852c4414:
+    span:
+      start: 811
+      end: 1585
+    imgnum: 4
+    reference: I3MS3260004.jpg
+  deaf0df39de14c8f9f8d98b623a28a9a:
+    span:
+      start: 1586
+      end: 2369
+    imgnum: 5
+    reference: I3MS3260005.jpg
+  9eb29894b84c4bd98e2204ee8ae87b47:
+    span:
+      start: 2370
+      end: 3229
+    imgnum: 6
+    reference: I3MS3260006.jpg
+  d596dc8f940d45ebb58ad3b88f369696:
+    span:
+      start: 3230
+      end: 4091
+    imgnum: 7
+    reference: I3MS3260007.jpg
+  81b43938dba646699741c773ca285e5a:
+    span:
+      start: 4092
+      end: 4897
+    imgnum: 8
+    reference: I3MS3260008.jpg
+  c0cbf06d334d4b78897e1e7eeacb3970:
+    span:
+      start: 4898
+      end: 5779
+    imgnum: 9
+    reference: I3MS3260009.jpg
+  0cd255318e124045b2f593d4998fb57b:
+    span:
+      start: 5780
+      end: 6687
+    imgnum: 10
+    reference: I3MS3260010.jpg
+  6a8bc8ecbb4d4a8e9a3004dc11cb37dd:
+    span:
+      start: 6688
+      end: 7616
+    imgnum: 11
+    reference: I3MS3260011.jpg
+  911e416b5d5942ba950d59af56c1314c:
+    span:
+      start: 7617
+      end: 8477
+    imgnum: 12
+    reference: I3MS3260012.jpg
+  89b526f7ffc546d4b527a73c9f3ee726:
+    span:
+      start: 8478
+      end: 9400
+    imgnum: 13
+    reference: I3MS3260013.jpg
+  18be04e2f98742f98a5608762da072af:
+    span:
+      start: 9401
+      end: 10217
+    imgnum: 14
+    reference: I3MS3260014.jpg
+  0128aa60fe1d4400ba9edb4d8346c57b:
+    span:
+      start: 10218
+      end: 11259
+    imgnum: 15
+    reference: I3MS3260015.jpg
+  102c60e270794233807a2f39d21298a7:
+    span:
+      start: 11260
+      end: 12124
+    imgnum: 16
+    reference: I3MS3260016.jpg

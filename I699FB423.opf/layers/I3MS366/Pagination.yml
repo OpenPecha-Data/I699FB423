@@ -1,0 +1,106 @@
+id: 4ccbb457cf794f5fa85f6bdbfed80df4
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  606ba85194aa450ca34ff53d2a701123:
+    span:
+      start: 0
+      end: 742
+    imgnum: 1
+    reference: I3MS3660001.tif
+  e087db2b0438442a9ad5f05a5b016295:
+    span:
+      start: 743
+      end: 831
+    imgnum: 3
+    reference: I3MS3660003.jpg
+  75b3b24f48ea4cd29c5b5a5e9267fe7d:
+    span:
+      start: 832
+      end: 1559
+    imgnum: 4
+    reference: I3MS3660004.jpg
+  152a30e7ee664b9fbb99335737fc7463:
+    span:
+      start: 1560
+      end: 2370
+    imgnum: 5
+    reference: I3MS3660005.jpg
+  bc6fb5acb6c34daaaaeb86847b481622:
+    span:
+      start: 2371
+      end: 3313
+    imgnum: 6
+    reference: I3MS3660006.jpg
+  c252f0fb232e4740b93d9610e3053059:
+    span:
+      start: 3314
+      end: 4342
+    imgnum: 7
+    reference: I3MS3660007.jpg
+  95cbb172a6b441d498eabc611b11db29:
+    span:
+      start: 4343
+      end: 5277
+    imgnum: 8
+    reference: I3MS3660008.jpg
+  e937589ab8344eac8dedb7993f828ec1:
+    span:
+      start: 5278
+      end: 6251
+    imgnum: 9
+    reference: I3MS3660009.jpg
+  888f0f4e35d54fc388f278069ae3282b:
+    span:
+      start: 6252
+      end: 7244
+    imgnum: 10
+    reference: I3MS3660010.jpg
+  0c316b37733040a0be2d260bc1ee24ad:
+    span:
+      start: 7245
+      end: 8212
+    imgnum: 11
+    reference: I3MS3660011.jpg
+  381ff6ebee5d4df78b9acaa179dab3aa:
+    span:
+      start: 8213
+      end: 9195
+    imgnum: 12
+    reference: I3MS3660012.jpg
+  efe26da4e0a346d0b6a38f797428f68d:
+    span:
+      start: 9196
+      end: 10171
+    imgnum: 13
+    reference: I3MS3660013.jpg
+  13ee3dde12ef4d6da567ae7e7b9f27b1:
+    span:
+      start: 10172
+      end: 11144
+    imgnum: 14
+    reference: I3MS3660014.jpg
+  2df95c20dced4e2589683e927141a8a9:
+    span:
+      start: 11145
+      end: 12084
+    imgnum: 15
+    reference: I3MS3660015.jpg
+  1482c50e41884407adf1dd9735277835:
+    span:
+      start: 12085
+      end: 12914
+    imgnum: 16
+    reference: I3MS3660016.jpg
+  ae89eae177124533a88a79e8682a1e62:
+    span:
+      start: 12915
+      end: 13893
+    imgnum: 17
+    reference: I3MS3660017.jpg
+  01b22ca72dd449418c26b254d25acf1e:
+    span:
+      start: 13894
+      end: 13916
+    imgnum: 18
+    reference: I3MS3660018.jpg

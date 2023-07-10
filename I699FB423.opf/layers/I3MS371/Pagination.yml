@@ -1,0 +1,94 @@
+id: a52e8a76e22043d7aeeecad26e026005
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  72d2be8f91a8480bbcb4905fed5e083a:
+    span:
+      start: 0
+      end: 743
+    imgnum: 1
+    reference: I3MS3710001.tif
+  cd493bcc27ae4760bc7dda5f3f67d357:
+    span:
+      start: 744
+      end: 817
+    imgnum: 3
+    reference: I3MS3710003.jpg
+  94a6a8908eed4deba638ee5be9ac5719:
+    span:
+      start: 818
+      end: 1510
+    imgnum: 4
+    reference: I3MS3710004.jpg
+  ef9b04c68074421f97fad26e3141499f:
+    span:
+      start: 1511
+      end: 2157
+    imgnum: 5
+    reference: I3MS3710005.jpg
+  d66d8f37533f41109a4f6c23c9a888a7:
+    span:
+      start: 2158
+      end: 3311
+    imgnum: 6
+    reference: I3MS3710006.jpg
+  64b97b289ea9467fbd70e1cda5b06e6a:
+    span:
+      start: 3312
+      end: 4442
+    imgnum: 7
+    reference: I3MS3710007.jpg
+  29cae99ec9334685b5c7e6b9ac36fc57:
+    span:
+      start: 4443
+      end: 5615
+    imgnum: 8
+    reference: I3MS3710008.jpg
+  96240d505c144d909aa6e7833d72e001:
+    span:
+      start: 5616
+      end: 6838
+    imgnum: 9
+    reference: I3MS3710009.jpg
+  b68d0368a54c4b729bac3cd53f3a0ead:
+    span:
+      start: 6839
+      end: 8093
+    imgnum: 10
+    reference: I3MS3710010.jpg
+  0720a25efa5d4ea99bd8ae5c8d00a92a:
+    span:
+      start: 8094
+      end: 9320
+    imgnum: 11
+    reference: I3MS3710011.jpg
+  c0f3c111026a41b0bb3d44c77b832c8b:
+    span:
+      start: 9321
+      end: 10488
+    imgnum: 12
+    reference: I3MS3710012.jpg
+  85feaaf0498548cd9b1574ecc4e839c3:
+    span:
+      start: 10489
+      end: 11646
+    imgnum: 13
+    reference: I3MS3710013.jpg
+  8b348c7afb2e48b79aea121f6a05a6a1:
+    span:
+      start: 11647
+      end: 12858
+    imgnum: 14
+    reference: I3MS3710014.jpg
+  a68e3af6c4184eebaba9bcb888f4b5a1:
+    span:
+      start: 12859
+      end: 14121
+    imgnum: 15
+    reference: I3MS3710015.jpg
+  05ba9a67064645688c0c71b99d791eb9:
+    span:
+      start: 14122
+      end: 15235
+    imgnum: 16
+    reference: I3MS3710016.jpg

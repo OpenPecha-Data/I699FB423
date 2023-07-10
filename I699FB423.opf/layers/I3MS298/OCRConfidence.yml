@@ -1,0 +1,97 @@
+id: d5804981ca2640c78962d2b675f87ec8
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  ecb25a3f180e44e1afa7d30610e1418a:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.7890531
+  ac5b91df1000496791bbf029c9922f3c:
+    span:
+      start: 485
+      end: 487
+    confidence: 0.6340988
+  cb45b23d137d4d17992be0ae5b4c4dba:
+    span:
+      start: 512
+      end: 514
+    confidence: 0.68378097
+  27418afb950d4f28980844eb4e453f01:
+    span:
+      start: 605
+      end: 607
+    confidence: 0.67915267
+  a6626009d5fc4eaa8926cf02ec236bbb:
+    span:
+      start: 743
+      end: 1027
+    confidence: 0.8435994085869565
+    nb_below_threshold: 17
+  36fcd12b0ea94cad9fec3838d7e01a1e:
+    span:
+      start: 1028
+      end: 1319
+    confidence: 0.8758915816049383
+    nb_below_threshold: 29
+  97d764bf1a5b4225924efbff56b39710:
+    span:
+      start: 1320
+      end: 1628
+    confidence: 0.8792321138202247
+    nb_below_threshold: 42
+  deb1f8c2b1a54d71a4796f436c5e4c0f:
+    span:
+      start: 1629
+      end: 1646
+    confidence: 0.56409562125
+    nb_below_threshold: 44
+  f9edc887edcb4146b1d14c1e06a36b53:
+    span:
+      start: 1647
+      end: 2457
+    confidence: 0.8310487161594203
+    nb_below_threshold: 105
+  257be5931db14d6d8a055842cf065039:
+    span:
+      start: 2458
+      end: 3376
+    confidence: 0.8414424462616822
+    nb_below_threshold: 176
+  bf2fc810f0da40ecbea7b9e79611c38c:
+    span:
+      start: 3377
+      end: 4491
+    confidence: 0.8634415723498694
+    nb_below_threshold: 252
+  c14e03dc3be4473ea8d2d24395cb265e:
+    span:
+      start: 4492
+      end: 5378
+    confidence: 0.82959574
+    nb_below_threshold: 299
+  7879eb33f61b468c8d5d4b3997bc0a1d:
+    span:
+      start: 5379
+      end: 6346
+    confidence: 0.8659129202803738
+    nb_below_threshold: 358
+  1c8f0b883d08494d818d3a8277e872f3:
+    span:
+      start: 6347
+      end: 7179
+    confidence: 0.8461454913028169
+    nb_below_threshold: 410
+  7dd44525aef44811af3d66555087a252:
+    span:
+      start: 7180
+      end: 8236
+    confidence: 0.8442565380104712
+    nb_below_threshold: 483
+  ca24f8f6f7734476aaa5b934e3b9dfc7:
+    span:
+      start: 8237
+      end: 8648
+    confidence: 0.8093928476811594
+    nb_below_threshold: 511
+confidence_threshold: 0.8

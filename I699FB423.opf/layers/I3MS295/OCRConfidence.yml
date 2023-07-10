@@ -1,0 +1,87 @@
+id: 5b14b28032bf4426b99b34382c89cb07
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  73910e9094424554a965f07b19701276:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.78905296
+  aaf3fd6f20c74958883e410e0f8943db:
+    span:
+      start: 485
+      end: 487
+    confidence: 0.63409877
+  fe0d945b8c7d4092961be193941db3b3:
+    span:
+      start: 512
+      end: 514
+    confidence: 0.6837809
+  b918984a2480495796c54c74f6688601:
+    span:
+      start: 535
+      end: 538
+    confidence: 0.7957095500000001
+  4575d766078c4c94b61dd980b35cd35c:
+    span:
+      start: 605
+      end: 607
+    confidence: 0.6791526
+  5376c964807a464d95c22448206e932b:
+    span:
+      start: 825
+      end: 827
+    confidence: 0.7050938
+  fc4a0028c9a44bd0b23f171409388719:
+    span:
+      start: 831
+      end: 833
+    confidence: 0.7421598
+  b0e11f65cfe04515aeef2cedf48433e6:
+    span:
+      start: 842
+      end: 845
+    confidence: 0.46727082
+  5c5036906c294a8c97a8b3a4a3788b7f:
+    span:
+      start: 847
+      end: 1449
+    confidence: 0.94434310225
+    nb_below_threshold: 13
+  480b64c5698e4e0c9fdd62d1572b3d43:
+    span:
+      start: 1450
+      end: 2080
+    confidence: 0.9842001187309645
+    nb_below_threshold: 18
+  1ee5fc1f5fae4cbba6094ab7ab639950:
+    span:
+      start: 2081
+      end: 3277
+    confidence: 0.9735856341569767
+    nb_below_threshold: 29
+  74744922e6b940d7a64108d95a8c0331:
+    span:
+      start: 3278
+      end: 3672
+    confidence: 0.9564839641414141
+    nb_below_threshold: 35
+  0a2276b8b41940a98af131bc3d49fd32:
+    span:
+      start: 3673
+      end: 4238
+    confidence: 0.9689760080769231
+    nb_below_threshold: 39
+  ca2a0b21908449b08f55b0b26892114c:
+    span:
+      start: 4239
+      end: 5396
+    confidence: 0.9543393357961784
+    nb_below_threshold: 57
+  0f5592d55b774e7d89cb96bff0e3f7d9:
+    span:
+      start: 5397
+      end: 6331
+    confidence: 0.8845694737878788
+    nb_below_threshold: 94
+confidence_threshold: 0.8

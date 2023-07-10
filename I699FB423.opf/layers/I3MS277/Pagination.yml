@@ -1,0 +1,106 @@
+id: 7147df46294644edbf46c0c82179c3c9
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  20ae04528b2442abad1f21c1aac3485f:
+    span:
+      start: 0
+      end: 741
+    imgnum: 1
+    reference: I3MS2770001.tif
+  289b0b03775b459fb71a1cad6a0d23d1:
+    span:
+      start: 742
+      end: 823
+    imgnum: 3
+    reference: I3MS2770003.jpg
+  7f1ddcae3b9d426693a3e87a5577ba3a:
+    span:
+      start: 824
+      end: 1093
+    imgnum: 4
+    reference: I3MS2770004.jpg
+  b0eee2dd13e844f29c8ffab1e31ef16b:
+    span:
+      start: 1094
+      end: 1341
+    imgnum: 5
+    reference: I3MS2770005.jpg
+  19e2682bfe354e4bb6b43f10d2dea6d3:
+    span:
+      start: 1342
+      end: 1603
+    imgnum: 6
+    reference: I3MS2770006.jpg
+  7b547f309cba41dc890dbd2f107cb8e4:
+    span:
+      start: 1604
+      end: 1933
+    imgnum: 7
+    reference: I3MS2770007.jpg
+  4e6f61609f8141eb99c5bbecb8f9732a:
+    span:
+      start: 1934
+      end: 2226
+    imgnum: 8
+    reference: I3MS2770008.jpg
+  0f158a96e0544fd89fa678167d3a8957:
+    span:
+      start: 2227
+      end: 2493
+    imgnum: 9
+    reference: I3MS2770009.jpg
+  63856ff75c7342a5a183fc27945d7dce:
+    span:
+      start: 2494
+      end: 2773
+    imgnum: 10
+    reference: I3MS2770010.jpg
+  b81af4dc7af44b7f9c7ec7f3fb5b3961:
+    span:
+      start: 2774
+      end: 2778
+    imgnum: 11
+    reference: I3MS2770011.jpg
+  7d8cd865d86a4093bb840659023932da:
+    span:
+      start: 2779
+      end: 2799
+    imgnum: 14
+    reference: I3MS2770014.jpg
+  a9bf74008be4431295a0f84c51a97308:
+    span:
+      start: 2800
+      end: 2813
+    imgnum: 15
+    reference: I3MS2770015.jpg
+  7d718cf610204269a3d7bc98bf0195cf:
+    span:
+      start: 2814
+      end: 2822
+    imgnum: 16
+    reference: I3MS2770016.jpg
+  b4ce1def0be440a5a72288e5e98402bd:
+    span:
+      start: 2823
+      end: 2991
+    imgnum: 17
+    reference: I3MS2770017.jpg
+  abe875cd1571419aa28a77e3fab64b96:
+    span:
+      start: 2992
+      end: 3232
+    imgnum: 18
+    reference: I3MS2770018.jpg
+  1052f015227e4eb2932d3b72b18779e9:
+    span:
+      start: 3233
+      end: 3278
+    imgnum: 19
+    reference: I3MS2770019.jpg
+  c10d498c54bb4ec2b6c895e4652c3ede:
+    span:
+      start: 3279
+      end: 3472
+    imgnum: 20
+    reference: I3MS2770020.jpg

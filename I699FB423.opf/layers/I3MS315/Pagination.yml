@@ -1,0 +1,106 @@
+id: 9bd9df440c2c473c977cf051a6e00cff
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  93a7ce4b75b241048073a32a005053bc:
+    span:
+      start: 0
+      end: 743
+    imgnum: 1
+    reference: I3MS3150001.tif
+  80eed93d09c0464fbd883de9d2bee392:
+    span:
+      start: 744
+      end: 765
+    imgnum: 3
+    reference: I3MS3150003.jpg
+  f721589ceed3447983d0ef9b3d426dc5:
+    span:
+      start: 766
+      end: 1659
+    imgnum: 4
+    reference: I3MS3150004.jpg
+  2095acd231664437950d3d40e2e4f241:
+    span:
+      start: 1660
+      end: 2487
+    imgnum: 5
+    reference: I3MS3150005.jpg
+  cf9c445171454b23b5e9cafefd45f274:
+    span:
+      start: 2488
+      end: 3777
+    imgnum: 6
+    reference: I3MS3150006.jpg
+  8c9809f2caac4c23ae2cc4be34a92752:
+    span:
+      start: 3778
+      end: 5125
+    imgnum: 7
+    reference: I3MS3150007.jpg
+  5d616694167e4a7aae10236e9b45a2c8:
+    span:
+      start: 5126
+      end: 6336
+    imgnum: 8
+    reference: I3MS3150008.jpg
+  8d93e4575a65434583894bf8e0c6b0b4:
+    span:
+      start: 6337
+      end: 7711
+    imgnum: 9
+    reference: I3MS3150009.jpg
+  e8ae5510053441bea3d205a1935a9418:
+    span:
+      start: 7712
+      end: 9085
+    imgnum: 10
+    reference: I3MS3150010.jpg
+  e9651eebf30c4d76ad47a3b0835c203c:
+    span:
+      start: 9086
+      end: 10416
+    imgnum: 11
+    reference: I3MS3150011.jpg
+  e200b0e9275a40579a6d4f0aed551829:
+    span:
+      start: 10417
+      end: 11809
+    imgnum: 12
+    reference: I3MS3150012.jpg
+  da723f954b3b46cdb5b604b4d744545d:
+    span:
+      start: 11810
+      end: 13117
+    imgnum: 13
+    reference: I3MS3150013.jpg
+  cd1b459a8270411ebee4f8239ffa37e6:
+    span:
+      start: 13118
+      end: 13302
+    imgnum: 14
+    reference: I3MS3150014.jpg
+  6a3d9f60cae3443792f30d7d63cc5531:
+    span:
+      start: 13303
+      end: 13918
+    imgnum: 15
+    reference: I3MS3150015.jpg
+  65dc044810b241a5a34eb966df817b7b:
+    span:
+      start: 13919
+      end: 14206
+    imgnum: 16
+    reference: I3MS3150016.jpg
+  0d4e03c485b34e3e860d1a740809adf5:
+    span:
+      start: 14207
+      end: 15380
+    imgnum: 17
+    reference: I3MS3150017.jpg
+  94f438ae75e64f19b02da9c3edc4b08b:
+    span:
+      start: 15381
+      end: 16284
+    imgnum: 18
+    reference: I3MS3150018.jpg

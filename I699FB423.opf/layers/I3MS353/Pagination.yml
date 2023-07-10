@@ -1,0 +1,94 @@
+id: eb1fe9f6235b44fab28934ebb9ce6918
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  315a6ae56f7c48a1aab857073db33530:
+    span:
+      start: 0
+      end: 742
+    imgnum: 1
+    reference: I3MS3530001.tif
+  d4327ee25fb84cffb9256c8a3bd68b99:
+    span:
+      start: 743
+      end: 829
+    imgnum: 3
+    reference: I3MS3530003.jpg
+  e775ab22416140c291f549b1b22b8061:
+    span:
+      start: 830
+      end: 1139
+    imgnum: 4
+    reference: I3MS3530004.jpg
+  f98e658bdabf48bfbbf3e04e0c82727f:
+    span:
+      start: 1140
+      end: 1441
+    imgnum: 5
+    reference: I3MS3530005.jpg
+  efabdc338f8c431a947e7438a36069a7:
+    span:
+      start: 1442
+      end: 2058
+    imgnum: 6
+    reference: I3MS3530006.jpg
+  24124f8d671841739f7f85278a6dc42a:
+    span:
+      start: 2059
+      end: 2684
+    imgnum: 7
+    reference: I3MS3530007.jpg
+  85a6d675eedf405aa1fe2ddb5297a689:
+    span:
+      start: 2685
+      end: 3322
+    imgnum: 8
+    reference: I3MS3530008.jpg
+  7d6fa5ae600c4c0186bf5e0b1b28ebfb:
+    span:
+      start: 3323
+      end: 3942
+    imgnum: 9
+    reference: I3MS3530009.jpg
+  ac48fa74e55c4f88b87210c120f9c711:
+    span:
+      start: 3943
+      end: 4558
+    imgnum: 10
+    reference: I3MS3530010.jpg
+  94dbe6700c144a8ea79b1ac98a4b6144:
+    span:
+      start: 4559
+      end: 5176
+    imgnum: 11
+    reference: I3MS3530011.jpg
+  9630f533c6be44a38b783025a6950bbd:
+    span:
+      start: 5177
+      end: 5818
+    imgnum: 12
+    reference: I3MS3530012.jpg
+  bebb9c0b368a44daaa7b19fb23d3065f:
+    span:
+      start: 5819
+      end: 6425
+    imgnum: 13
+    reference: I3MS3530013.jpg
+  5bddf38bf2534ed9b3a283466633c889:
+    span:
+      start: 6426
+      end: 7068
+    imgnum: 14
+    reference: I3MS3530014.jpg
+  d4fa300984614f75b50d513465041158:
+    span:
+      start: 7069
+      end: 7750
+    imgnum: 15
+    reference: I3MS3530015.jpg
+  4ca2c9fb599248578b9fb6b6beb5feec:
+    span:
+      start: 7751
+      end: 7901
+    imgnum: 16
+    reference: I3MS3530016.jpg
